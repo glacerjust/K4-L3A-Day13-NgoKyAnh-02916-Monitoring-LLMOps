@@ -8,7 +8,7 @@
 - **MSSV:** 2A202602916
 - **Lớp:** K4-L3A
 - **Repository URL:** https://github.com/glacerjust/K4-L3A-Day13-NgoKyAnh-02916-Monitoring-LLMOps
-- **Commit SHA cuối:** 
+- **Commit SHA cuối:** d8a05c082ae6b3e6fc05cfcdae2f0ce64cd0842a
 - **Challenge ID:** day13-k4-l3a-monitoring-llmops-v1
 - **Tên project Langfuse cá nhân:** `day13-k4-l3a-2A202602916`
 
